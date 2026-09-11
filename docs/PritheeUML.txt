@@ -1,0 +1,17 @@
+Prithee
+--------------------------------
+- words: String[]
+--------------------------------
++ Prithee()
++ play(): void
++ printUntilWord(missingWordIndex: int): void
++ checkAnswer(answer: String, actualWord: String): boolean
++ cleanWord(word: String): String
+--------------------------------
+Stores the sonnet and controls
+the main game logic.
+
+Chooses a random missing word,
+prints the sonnet up to that word,
+checks the user's answer, and keeps
+track of correct and incorrect guesses.

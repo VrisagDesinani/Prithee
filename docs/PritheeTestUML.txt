@@ -1,0 +1,11 @@
+PritheeTest
+--------------------------------
++ testCorrectAnswer(): void
++ testIncorrectAnswer(): void
++ testCapitalizationDoesNotMatter(): void
++ testPunctuationDoesNotMatter(): void
++ testCleanWord(): void
+--------------------------------
+Tests the methods in Prithee
+to make sure answers are checked
+correctly and punctuation is handled.
